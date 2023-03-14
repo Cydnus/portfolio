@@ -206,4 +206,5 @@ plugins:
   - jekyll-paginate
 
 gems:
-- jekyll-seo-tag
+  - jekyll-seo-tag
+  - jekyll-paginate
