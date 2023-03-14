@@ -203,3 +203,6 @@ jekyll-archives:
 
 plugins:
   - jekyll-seo-tag
+  
+gems:
+- jekyll-seo-tag
