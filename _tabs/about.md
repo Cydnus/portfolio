@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> 대략적인 정보는 [여기](https://cydnus.github.io/)에서 확인 가능합니다.
 {: .prompt-tip }
+
