@@ -30,9 +30,7 @@ tags: [C++, Qt Framework, Serial Communication]
 
 ## Result
 
-<!--
 ![결과](/posts/230305_SerialCom/result.gif)
--->
 
 ## Improvements
 
