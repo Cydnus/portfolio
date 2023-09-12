@@ -10,9 +10,9 @@ tags: [C++, Qt Framework, Serial Communication]
 
 ## Summary
 
-유명 프로그램 Serial Com 프로그램을 구현해 보고자 제작.
-COM포트가 10이 최대여서 COM포트가 10이 넘어가는 경우 인식이 불가능.
-20까지 확장하여 적용함
+- 유명 프로그램 Serial Com 프로그램을 구현해 보고자 제작.
+- COM포트가 10이 최대여서 COM포트가 10이 넘어가는 경우 인식이 불가능.
+- 20까지 확장하여 적용함
 
 ## Environment
 
